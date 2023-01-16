@@ -11,5 +11,5 @@ wget -N https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh && bash n
 
 ![d78ef3d4deba56c6c219867ef92e005](https://user-images.githubusercontent.com/121604513/212578843-4a333ce2-4b22-4445-ac28-c8500db1ecdc.png)
 
-### 脚本源码备份[Gitlab地址](https://gitlab.com/rwkgyg/hysteria-yg)
+### 脚本源码备份[Gitlab地址](https://gitlab.com/rwkgyg/naiveproxy-yg)
 
