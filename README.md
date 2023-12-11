@@ -16,7 +16,7 @@ bash <(wget -qO- https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh 
 
 ### 脚本安装预览图
 
-![4dbf492aee21e463d5b09717687254b](https://github.com/yonggekkk/NaiveProxy-yg/assets/121604513/262d685a-6293-4a3f-be95-abdd18d6aa0f)
+![817c03c1f33669006809ad67708bec5](https://github.com/yonggekkk/NaiveProxy-yg/assets/121604513/eba0a9a3-e9b6-40e8-9d45-dbbe96e42445)
 
 
 -----------------------------------------------------
