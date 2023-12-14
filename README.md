@@ -22,3 +22,10 @@ bash <(wget -qO- https://gitlab.com/rwkgyg/naiveproxy-yg/raw/main/naiveproxy.sh 
 -----------------------------------------------------
 ### 感谢你右上角的star🌟
 [![Stargazers over time](https://starchart.cc/yonggekkk/NaiveProxy-yg.svg)](https://starchart.cc/yonggekkk/NaiveProxy-yg)
+
+---------------------------------------
+#### 声明：
+
+#### 该项目使用base64加密，可自行解密，介意者请勿使用
+
+#### 所有代码来源于Github社区与ChatGPT的整合；如您需要开源代码，请提Issues留下您的联系邮箱
